@@ -2,8 +2,6 @@
 steam_gate.py
 
 Hello fellow medstudent. I can see you want to be locked tf in as I am as well.
-print("hello world")
-print("larp")
 
 
 Blocks Steam from running until you've reviewed a target number of Anki
